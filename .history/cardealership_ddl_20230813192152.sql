@@ -1,0 +1,3 @@
+CREATE TABLE invoice(
+    invoice_id S PRIMARY KEY AUTOINCREMENT
+)

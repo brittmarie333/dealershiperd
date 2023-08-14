@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "cardealership",
+            "connectString": "postgres://rnpozxiw:MEch0sO4nPkX7MHE53Z1oSg8zDz6Z5Q_@batyr.db.elephantsql.com/rnpozxiw"
+        }
+    ]
+}
